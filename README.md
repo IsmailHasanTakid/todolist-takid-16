@@ -1,5 +1,8 @@
 # My TodoList App
-
+Name:Ismail Hasan Takid
+Roll:16
+Batch:D-87
+sem:7th
 A simple and user-friendly Todo List mobile application built with **React Native** and **Expo**.
 
 ## Features

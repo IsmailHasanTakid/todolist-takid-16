@@ -2,6 +2,10 @@
 import { useState } from 'react';
 import { FlatList, Pressable, Text, TextInput, View } from 'react-native';
 
+// Name:Ismail Hasan Takid
+// Roll:16
+// Batch:D-87
+// sem:7th
 const TodoList = () => {
 
     const [task, setTask] = useState("");
